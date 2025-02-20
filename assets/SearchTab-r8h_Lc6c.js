@@ -1,1 +1,0 @@
-import{r,C as e,j as o}from"./index-DTYPK44_.js";function n(){const{toggle:t}=r.useContext(e);return o.jsx("div",{className:`h-screen w-screen ${t?"bg-transparent transition-color duration-300 delay-100":"bg-yellow-400 transition-color duration-300 delay-100"}`})}export{n as default};
