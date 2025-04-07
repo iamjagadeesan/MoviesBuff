@@ -1,1 +1,0 @@
-import{j as r,S as a}from"./index-Bq08GLcd.js";function s(){return r.jsx("div",{className:"h-screen w-screen bg-transparent transition-color duration-300 delay-100",children:r.jsx(a,{})})}export{s as default};
