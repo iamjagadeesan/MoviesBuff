@@ -1,0 +1,1 @@
+import{j as r,S as e}from"./index-BNt1dRDz.js";const s=()=>r.jsx("div",{className:"h-screen w-screen bg-transparent transition-color duration-300 delay-100",children:r.jsx(e,{})});export{s as default};
